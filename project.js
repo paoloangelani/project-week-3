@@ -50,7 +50,7 @@ delete me.età;
   Crea del codice per aggiungere programmaticamente all'oggetto precedentemente creato un array chiamato "skills", contenente i linguaggi di programmazione che conosci.
 */
 
-me.skills = new array(pyton, java, c, c++)
+me.skills = new Array(pyton, java, c, c++)
 
 
 /* ESERCIZIO F
